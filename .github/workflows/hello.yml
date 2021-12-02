@@ -9,7 +9,7 @@ on:
     types: [ closed ]
 
 env:
-  name: Anatol
+  name: Anaatol
 
 jobs:
   
